@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WG12.github.io</id>
     <title>Crazy</title>
-    <updated>2021-03-24T16:06:50.913Z</updated>
+    <updated>2021-03-24T16:16:23.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WG12.github.io"/>
     <link rel="self" href="https://WG12.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://WG12.github.io/images/avatar.png</logo>
     <icon>https://WG12.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Crazy</rights>
+    <entry>
+        <title type="html"><![CDATA[0-博客规范]]></title>
+        <id>https://WG12.github.io/post/0-bo-ke-gui-fan/</id>
+        <link href="https://WG12.github.io/post/0-bo-ke-gui-fan/">
+        </link>
+        <updated>2021-03-24T16:08:50.000Z</updated>
+        <content type="html"><![CDATA[<p><em><strong>博客规范存在的意义是：</strong></em><br>
+<strong>1、方便他人阅读</strong><br>
+<strong>2、方便书写博客</strong><br>
+<strong>3、方便整理博客</strong></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博客说明]]></title>
         <id>https://WG12.github.io/post/First/</id>
@@ -23,28 +35,6 @@
 4、从互联网中学到了很多知识，力所能及的回馈互联网</p>
 <h1 id="二-博客主题"><strong>二、博客主题</strong></h1>
 <p>本博客是以项目为主题的博客，一切内容都为项目服务，所有涉及到的内容在现阶段都是是项目的附属，接下来请看第0号项目——博客结构规范</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[你好，我的博客]]></title>
-        <id>https://WG12.github.io/post/ni-hao-wo-de-bo-ke/</id>
-        <link href="https://WG12.github.io/post/ni-hao-wo-de-bo-ke/">
-        </link>
-        <updated>2021-03-23T16:48:00.000Z</updated>
-        <content type="html"><![CDATA[<p>##我即将整理我的博客</p>
-<p>我的博客即将以全新的面貌出现在人们眼前<br>
-等待ing......</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HELLO]]></title>
-        <id>https://WG12.github.io/post/hello/</id>
-        <link href="https://WG12.github.io/post/hello/">
-        </link>
-        <updated>2021-03-23T16:38:12.000Z</updated>
-        <content type="html"><![CDATA[<p>HELLO</p>
-<p>MY  CRZAY</p>
-<p>HEIHEI</p>
 ]]></content>
     </entry>
 </feed>
