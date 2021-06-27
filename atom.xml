@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WG12.github.io</id>
     <title>Crazy</title>
-    <updated>2021-06-27T10:45:18.515Z</updated>
+    <updated>2021-06-27T12:15:44.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WG12.github.io"/>
     <link rel="self" href="https://WG12.github.io/atom.xml"/>
@@ -11,15 +11,48 @@
     <icon>https://WG12.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Crazy</rights>
     <entry>
-        <title type="html"><![CDATA[0-博客规范]]></title>
+        <title type="html"><![CDATA[002-检测工具]]></title>
+        <id>https://WG12.github.io/post/002-jian-ce-gong-ju/</id>
+        <link href="https://WG12.github.io/post/002-jian-ce-gong-ju/">
+        </link>
+        <updated>2021-06-27T12:01:04.000Z</updated>
+        <content type="html"><![CDATA[<p>#1.说明<br>
+在电子类项目的开发过程中，经常需要对一些模块进行调试，电脑软件种类太多，于是萌生了一个创建检测工具的想法。</p>
+<p>#2.目的<br>
+创建一个可以检测多种总线的工具，显示总线的数据，并且可以和电脑通讯，自带屏幕，可调节总线参数，可加载通讯协议。</p>
+<p>#3.功能说明<br>
+##3.1 SPI总线<br>
+##3.2 I2C总线<br>
+##3.3 RS232总线<br>
+##3.4 RS485总线<br>
+##3.5 CAN总线<br>
+##3.6 LIN总线</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[001-博客创作规则]]></title>
+        <id>https://WG12.github.io/post/001-bo-ke-chuang-zuo-gui-ze/</id>
+        <link href="https://WG12.github.io/post/001-bo-ke-chuang-zuo-gui-ze/">
+        </link>
+        <updated>2021-06-27T10:46:48.000Z</updated>
+        <content type="html"><![CDATA[<p>为了更好的创作博客，做出如下规定</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[000-博客结构规范]]></title>
         <id>https://WG12.github.io/post/0-bo-ke-gui-fan/</id>
         <link href="https://WG12.github.io/post/0-bo-ke-gui-fan/">
         </link>
         <updated>2021-03-24T16:08:50.000Z</updated>
-        <content type="html"><![CDATA[<p><em><strong>博客规范存在的意义是：</strong></em><br>
-<strong>1、方便他人阅读</strong><br>
-<strong>2、方便书写博客</strong><br>
-<strong>3、方便整理博客</strong></p>
+        <content type="html"><![CDATA[<p><em><strong>博客规范存在的目的是：</strong></em><br>
+<em><strong>1、方便他人阅读</strong></em><br>
+<em><strong>2、方便书写博客</strong></em><br>
+<em><strong>3、方便创作博客</strong></em></p>
+<p><em><strong>基于以上目的，打造一个适合自己的博客规范</strong></em><br>
+#1、博客的创作<br>
+##1.1、写博客使用的语言<br>
+博客创作是以文字形式进行记录内容，因此采用Markdown语言进行编写文档，教程采用<a href="https://www.runoob.com/markdown/md-tutorial.html">菜鸟教程</a>作为Markdown规范。<br>
+##1.2、博客</p>
 ]]></content>
     </entry>
     <entry>
