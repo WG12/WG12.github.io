@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://WG12.github.io/</id>
     <title>Gridea</title>
-    <updated>2022-05-04T05:38:03.144Z</updated>
+    <updated>2022-05-04T09:55:58.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://WG12.github.io/"/>
     <link rel="self" href="http://WG12.github.io/atom.xml"/>
@@ -11,44 +11,135 @@
     <icon>http://WG12.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[First]]></title>
-        <id>http://WG12.github.io/post/first/</id>
-        <link href="http://WG12.github.io/post/first/">
+        <title type="html"><![CDATA[3、学习英语]]></title>
+        <id>http://WG12.github.io/post/3xue-xi-ying-yu/</id>
+        <link href="http://WG12.github.io/post/3xue-xi-ying-yu/">
         </link>
-        <updated>2022-05-04T05:21:12.000Z</updated>
-        <content type="html"><![CDATA[<p>第一次写作。测试一下</p>
+        <updated>2022-05-04T09:49:30.000Z</updated>
+        <content type="html"><![CDATA[<p>因为我莫名其妙的很喜欢嵌入式，并且也从事嵌入式相关的工作，所以对英语这个工具语言有着一定的需求。<br>
+各种芯片资料和例程，英文的占大多数，不会英语有着很大的阻碍，感觉自己束手束脚的。<br>
+下定决心提高自己的英语水平，因本人的英语水平太差，所以默认自己没有英语基础，所以从最基础的小学水平学起。学习方式是背单词，理解单词的意思。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://WG12.github.io/post/hello-gridea/</id>
-        <link href="http://WG12.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[2、学习Linux]]></title>
+        <id>http://WG12.github.io/post/2linux/</id>
+        <link href="http://WG12.github.io/post/2linux/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2022-05-04T09:38:56.000Z</updated>
+        <content type="html"><![CDATA[<p>初次接触Linux是在2016年，刚上大一，觉得命令行很酷。<br>
+但是后面感觉命令行都是英文字符，整个生态都是英文的，对于我来说这个太难了，就不想深入了解。<br>
+后面也接触一些，感觉命令行很好用，但自己英语太差了，每次都是不了了之。<br>
+这次卷土重来，必定达到目标，不破楼兰终不还。</p>
+<p>人生嘛，总得有些大的奔头😊</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1、学习Markdown]]></title>
+        <id>http://WG12.github.io/post/1xue-xi-markdown/</id>
+        <link href="http://WG12.github.io/post/1xue-xi-markdown/">
+        </link>
+        <updated>2022-05-04T09:30:15.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="为什么学习markdown">为什么学习Markdown</h1>
+<p>来自网络的安利优点如下：</p>
+<h2 id="1-语法简单">1、语法简单</h2>
+<h2 id="2-写作方便">2、写作方便</h2>
+<h2 id="3-可直接阅读">3、可直接阅读</h2>
+<h2 id="4-资源开销较小">4、资源开销较小</h2>
+<h2 id="5-懒人福利">5、懒人福利</h2>
+<h1 id="怎么学习markdown">怎么学习Markdown</h1>
+<p>准备一个手册或者一个教程网站，一边用来写日志，一边学习。<br>
+对于我个人而言，简单的东西只有用的多了，才会真正的去深入了解，个性使然。</p>
+<h1 id="学习中ing">学习中ing</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[导言]]></title>
+        <id>http://WG12.github.io/post/dao-yan/</id>
+        <link href="http://WG12.github.io/post/dao-yan/">
+        </link>
+        <updated>2022-05-04T09:23:54.000Z</updated>
+        <content type="html"><![CDATA[<p>请使用标签系统快速查找各种栏目</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【日志】-2022.05.04]]></title>
+        <id>http://WG12.github.io/post/ri-zhi-20220504/</id>
+        <link href="http://WG12.github.io/post/ri-zhi-20220504/">
+        </link>
+        <updated>2022-05-04T08:41:58.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="从今天开始写日志记录自己的工作与生活">从今天开始写日志，记录自己的工作与生活。</h1>
+<hr>
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E4%BB%8E%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E5%86%99%E6%97%A5%E5%BF%97%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%B8%8E%E7%94%9F%E6%B4%BB">从今天开始写日志，记录自己的工作与生活。</a></li>
+<li><a href="#1-%E5%AD%A6%E4%B9%A0markdown%E8%AF%AD%E8%A8%80">1、学习Markdown语言</a>
+<ul>
+<li><a href="#%E9%95%BF%E6%9C%9F%E7%9B%AE%E6%A0%87">长期目标</a></li>
+<li><a href="#%E7%9F%AD%E6%9C%9F%E7%9B%AE%E6%A0%87">短期目标</a></li>
+</ul>
+</li>
+<li><a href="#2-%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80linux">2、学习基础Linux</a>
+<ul>
+<li><a href="#%E9%95%BF%E6%9C%9F%E7%9B%AE%E6%A0%87-2">长期目标</a></li>
+<li><a href="#%E7%9F%AD%E6%9C%9F%E7%9B%AE%E6%A0%87-2">短期目标</a></li>
+</ul>
+</li>
+<li><a href="#3-%E5%AD%A6%E4%B9%A0%E8%8B%B1%E8%AF%AD">3、学习英语</a>
+<ul>
+<li><a href="#%E9%95%BF%E6%9C%9F%E7%9B%AE%E6%A0%87-3">长期目标</a></li>
+<li><a href="#%E7%9F%AD%E6%9C%9F%E7%9B%AE%E6%A0%87-3">短期目标</a></li>
+</ul>
+</li>
+<li><a href="#4-%E5%AD%A6%E4%B9%A0kicad">4、学习KiCAD</a>
+<ul>
+<li><a href="#%E9%95%BF%E6%9C%9F%E7%9B%AE%E6%A0%87-4">长期目标</a></li>
+<li><a href="#%E7%9F%AD%E6%9C%9F%E7%9B%AE%E6%A0%87-4">短期目标</a></li>
+</ul>
+</li>
+<li><a href="#5-%E5%AD%A6%E4%B9%A0freecad">5、学习FreeCAD</a>
+<ul>
+<li><a href="#%E9%95%BF%E6%9C%9F%E7%9B%AE%E6%A0%87-5">长期目标</a></li>
+<li><a href="#%E7%9F%AD%E6%9C%9F%E7%9B%AE%E6%A0%87-5">短期目标</a></li>
+</ul>
+</li>
+<li><a href="#6-%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E6%A0%BC%E5%BC%8F">6、建立一个项目文档格式</a>
+<ul>
+<li><a href="#%E9%95%BF%E6%9C%9F%E7%9B%AE%E6%A0%87-6">长期目标</a></li>
+<li><a href="#%E7%9F%AD%E6%9C%9F%E7%9B%AE%E6%A0%87-6">短期目标</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<h1 id="1-学习markdown语言">1、学习Markdown语言</h1>
+<h2 id="长期目标">长期目标</h2>
+<p>熟练使用Markdown记录各种事情，方便文字记录。</p>
+<h2 id="短期目标">短期目标</h2>
+<p>使用Markdown完成【日志】。</p>
+<h1 id="2-学习基础linux">2、学习基础Linux</h1>
+<h2 id="长期目标-2">长期目标</h2>
+<p>掌握Linux下的常用工具，能够在Linux下进行嵌入式开发。</p>
+<h2 id="短期目标-2">短期目标</h2>
+<p>按照《Linux就该这么学》书籍的教程，接触和入门Linux并通过红帽考试认证。</p>
+<h1 id="3-学习英语">3、学习英语</h1>
+<h2 id="长期目标-3">长期目标</h2>
+<p>能够阅读并理解英文书籍</p>
+<h2 id="短期目标-3">短期目标</h2>
+<p>通过百词斩按照九年义务教育的顺序，学习英语，达到小学毕业的英语水平。</p>
+<h1 id="4-学习kicad">4、学习KiCAD</h1>
+<h2 id="长期目标-4">长期目标</h2>
+<p>熟练使用KICAD绘制PCB</p>
+<h2 id="短期目标-4">短期目标</h2>
+<p>使用KiCAD绘制一个PCB</p>
+<h1 id="5-学习freecad">5、学习FreeCAD</h1>
+<h2 id="长期目标-5">长期目标</h2>
+<p>熟练使用FreeCAD进行3D模型的绘制</p>
+<h2 id="短期目标-5">短期目标</h2>
+<p>为自己的PCB绘制一个简易的外壳</p>
+<h1 id="6-建立一个项目文档格式">6、建立一个项目文档格式</h1>
+<h2 id="长期目标-6">长期目标</h2>
+<p>建立一个通用的项目文档记录格式</p>
+<h2 id="短期目标-6">短期目标</h2>
+<p>先建立一个简易的格式，然后根据自己的习惯进行迭代</p>
 ]]></content>
     </entry>
 </feed>
